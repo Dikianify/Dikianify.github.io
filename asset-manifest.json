@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/intuit-app/static/css/main.7fc67faf.css",
+    "main.js": "/intuit-app/static/js/main.9cdc6fc7.js",
+    "static/media/video.mp4": "/intuit-app/static/media/video.d5113c67fc2b13a37886.mp4",
+    "static/media/svg-1.png": "/intuit-app/static/media/svg-1.b21e7046552d694dc18f.png",
+    "static/media/svg-3.png": "/intuit-app/static/media/svg-3.6800ae17257bdb20522c.png",
+    "static/media/svg-2.png": "/intuit-app/static/media/svg-2.d3b08d2a17ead894a2c4.png",
+    "static/media/logo.PNG": "/intuit-app/static/media/logo.06d11ffe6d39ae619837.PNG",
+    "static/media/svg-5.svg": "/intuit-app/static/media/svg-5.56af166fa4f3f9b9c0ead693c642e2aa.svg",
+    "static/media/svg-4.svg": "/intuit-app/static/media/svg-4.6ec32baeaf6c3f80aeadf659c7bcc8c6.svg",
+    "static/media/svg-6.svg": "/intuit-app/static/media/svg-6.a6930fda3b84df1280965315ee4a3c93.svg",
+    "index.html": "/intuit-app/index.html",
+    "main.7fc67faf.css.map": "/intuit-app/static/css/main.7fc67faf.css.map",
+    "main.9cdc6fc7.js.map": "/intuit-app/static/js/main.9cdc6fc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc67faf.css",
+    "static/js/main.9cdc6fc7.js"
+  ]
+}
